@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\IS Thesis Code\FaceRecognitionTest\FaceRecognitionTest\bin\Debug\FaceRecognitionTest.exe.config
+C:\Users\user\Desktop\IS Thesis Code\FaceRecognitionTest\FaceRecognitionTest\bin\Debug\FaceRecognitionTest.exe
+C:\Users\user\Desktop\IS Thesis Code\FaceRecognitionTest\FaceRecognitionTest\bin\Debug\FaceRecognitionTest.pdb
+C:\Users\user\Desktop\IS Thesis Code\FaceRecognitionTest\FaceRecognitionTest\obj\Debug\FaceRecognitionTest.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\IS Thesis Code\FaceRecognitionTest\FaceRecognitionTest\obj\Debug\FaceRecognitionTest.Properties.Resources.resources
+C:\Users\user\Desktop\IS Thesis Code\FaceRecognitionTest\FaceRecognitionTest\obj\Debug\FaceRecognitionTest.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\IS Thesis Code\FaceRecognitionTest\FaceRecognitionTest\obj\Debug\FaceRecognitionTest.exe
+C:\Users\user\Desktop\IS Thesis Code\FaceRecognitionTest\FaceRecognitionTest\obj\Debug\FaceRecognitionTest.pdb
+C:\Users\user\Desktop\IS Thesis Code\FaceRecognitionTest\FaceRecognitionTest\bin\Debug\ZedGraph.dll
+C:\Users\user\Desktop\IS Thesis Code\FaceRecognitionTest\FaceRecognitionTest\obj\Debug\FaceRecognitionTest.CameraCapture.resources

@@ -1,0 +1,106 @@
+_ManyFacesImage.jpg_
+
+Options
+Choose xml file
+Scale Increase Rate: 1.1, 1.2, 1.3, 1.4 [lower number = more passes over image]
+Minimum Neighbours: 0, 1, 2, 3, 4 [number = number of rectangles that must be present before object can be marked as face]
+Canny Pruning: HAAR_DETECTION_TYPE.DO_CANNY_PRUNING, 0 [if on, detector skips regions unlikely to contain a face by running an edge detector over the image]
+Size: size of the smallest face to search for
+
+haarcascade_frontalface_alt_tree.xml
+scale increase rate: 1.4
+minimum neighbours: 4
+Canny Pruning On
+Size: 25x25
+detects: 47/57
+misses: 10/57
+duplicate matches: 3
+
+scale increase rate: 1.1
+minimum neighbours: 4
+Canny Pruning On
+Size: 25x25
+detects: 55/57
+misses: 2/57
+duplicates: 0
+non-faces: 0
+minimum neighbours: 2
+Canny Pruning On
+Size: 25x25
+detects: 56/57
+misses: 1/57
+
+haarcascade_frontalface_alt.xml
+scale increase rate: 1.4
+minimum neighbours: 4
+Canny Pruning On
+Size: 25x25
+detects: 54/57
+misses: 3/57
+duplicate matches: 13
+
+scale increase rate: 1.1
+minimum neighbours: 4
+Canny Pruning On
+Size: 25x25
+detects: 57/57
+misses: 0/57
+duplicates: 0
+non-faces: 1
+minimum neighbours: 2
+Canny Pruning On
+Size: 25x25
+detects: 57/57
+misses: 0/57
+duplicates: 0
+non-faces: 1
+
+haarcascade_frontalface_alt2.xml
+scale increase rate: 1.4
+minimum neighbours: 4
+Canny Pruning On
+Size: 25x25
+detects: 56/57
+misses: 1/57
+duplicate matches: 18
+
+scale increase rate: 1.1
+minimum neighbours: 4
+Canny Pruning On
+Size: 25x25
+detects: 56/57
+misses: 1/57
+duplicates: 0
+non-faces: 2
+minimum neighbours: 2
+Canny Pruning On
+Size: 25x25
+detects: 56/57
+misses: 1/57
+duplicates: 0
+non-faces: 5
+
+haarcascade_frontalface_default.xml
+scale increase rate: 1.4
+minimum neighbours: 4
+Canny Pruning On
+Size: 25x25
+detects: 51/57
+misses: 6/57
+duplicate matches: 5
+
+scale increase rate: 1.1
+minimum neighbours: 4
+Canny Pruning On
+Size: 25x25
+detects: 56/57
+misses: 1/57
+duplicates: 0
+non-faces: 0
+minimum neighbours: 2
+Canny Pruning On
+Size: 25x25
+detects: 56/57
+misses: 1/57
+duplicates: 0
+non-faces: 6
